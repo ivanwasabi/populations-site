@@ -1,0 +1,31 @@
+body{
+    margin:0px 0px;
+}
+
+#image-arrow{
+    width:100%;
+}
+#image-arrow img{
+    margin-left:50%;
+}
+#image-arrow img:hover{
+    cursor: pointer;
+}
+#frame{
+    border-bottom: 5px dashed black;
+}
+#register_form table{
+    margin-top:-100px;
+}
+#head-line-2{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color:white;
+    font-size:35px;
+    font-family: 'AR DELANEY', 'Calibri';
+    text-align: center;
+    vertical-align: middle;
+}
+
+
